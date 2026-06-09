@@ -1,0 +1,4 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Active Directory,,Contains,domain admins
+Filter 2 OR,Entitlement,Compliance Active Directory,,Contains,enterprise admins
+Filter 3,Entitlement,Compliance Active Directory,,Contains,schema admins

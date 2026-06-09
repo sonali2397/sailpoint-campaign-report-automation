@@ -1,0 +1,4 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,HashiCorp Admins and Auditors,,Equals,HC-Vault-Admins
+Filter 2 OR,Entitlement,HashiCorp Admins and Auditors,,Equals,HC-Vault-Auditors
+Filter 3,Entitlement,HashiCorp Admins and Auditors,,Equals,HC-Vault-RO-Admins

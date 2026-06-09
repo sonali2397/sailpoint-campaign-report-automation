@@ -1,0 +1,7 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Active Directory,,Contains,gd-aws-p-masteraccountadmin-managed
+Filter 2 OR,Entitlement,Compliance Active Directory,,Contains,GD-AWS-MasterAccountAdmin-Managed
+Filter 3 OR,Entitlement,Compliance Active Directory,,Contains,gd-aws-r-masteraccountadmin-managed
+Filter 4 OR,Entitlement,Compliance Active Directory,,Starts With,jomax\gd-aws-organizationadmin
+Filter 5 OR,Entitlement,Compliance Active Directory,,Starts With,jomax\gd-aws-p-organizationadmin
+Filter 6,Entitlement,Compliance Active Directory,,Starts With,jomax\gd-aws-r-organizationadmin

@@ -1,0 +1,3 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Active Directory,,Contains,okta_sentinelone_admin
+Filter 2,Entitlement,Compliance Active Directory,,Contains,Okta_SentinelOne_IR

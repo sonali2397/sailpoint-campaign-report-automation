@@ -1,0 +1,4 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Source,,,Does Not Equal,DC1 Active Directory
+Filter 2 OR,Identity Attribute,,cloudLifecycleState,Equals,terminated
+Filter 3,Entitlement,DC1 Active Directory,,Equals,Domain Users

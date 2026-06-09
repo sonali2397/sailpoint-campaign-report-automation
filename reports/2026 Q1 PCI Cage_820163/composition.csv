@@ -1,0 +1,4 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Badge Access,,Equals,A2/Ashburn DC - IDRC-1 PCI Rack 1
+Filter 2 OR,Entitlement,Compliance Badge Access,,Equals,P3/Buckeye 13-1 PCI Srvr Rm C
+Filter 3,Entitlement,Compliance Badge Access,,Equals,P3/Buckeye Server G PCI

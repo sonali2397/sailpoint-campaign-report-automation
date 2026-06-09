@@ -1,0 +1,6 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Badge Access,,Equals,A2/Ashburn PKI IDRC-1 PKI Cage
+Filter 2 OR,Entitlement,Compliance Badge Access,,Equals,A2/Ashburn PKI IDRC-2 PKI Racks
+Filter 3 OR,Entitlement,Compliance Badge Access,,Equals,P3/Buckeye 31 PKI (Time Server)
+Filter 4 OR,Entitlement,Compliance Badge Access,,Equals,P3/Buckeye IDRC-1 PKI Cage Server Rm B
+Filter 5,Entitlement,Compliance Badge Access,,Equals,P3/Buckeye IDRC-2 PKI Rack Server Rm B

@@ -1,0 +1,8 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,IdentityNow,,Equals,Certifications
+Filter 2 OR,Entitlement,IdentityNow,,Equals,Helpdesk
+Filter 3 OR,Entitlement,IdentityNow,,Equals,Role Administrator
+Filter 4 OR,Entitlement,IdentityNow,,Equals,Role SubAdministrator
+Filter 5 OR,Entitlement,IdentityNow,,Equals,Source Administrator
+Filter 6 OR,Entitlement,IdentityNow,,Equals,Source SubAdministrator
+Filter 7,Entitlement,IdentityNow,,Equals,Administrator

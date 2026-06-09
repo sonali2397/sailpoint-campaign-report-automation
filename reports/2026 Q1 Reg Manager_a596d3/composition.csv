@@ -1,0 +1,2 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1,Entitlement,Compliance Active Directory,,Contains,regmanager-administrators

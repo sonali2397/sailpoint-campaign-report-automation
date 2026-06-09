@@ -1,0 +1,2 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Exclude Uncorrelated Identities,System default campaign filter for excluding uncorrelated identities.,,,,

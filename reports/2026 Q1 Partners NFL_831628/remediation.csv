@@ -1,0 +1,7 @@
+Identity,Type,Source,Source Owner,Account Name,Entitlement Name,Display Name,Description,Decision Comments,Status,Recipient,Requester,Completed,Comments
+Matthew Atkinson (105915),Entitlement,Jomax Active Directory,Lee Stapleford-Allen (241045),matkinson,memberOf,Partners-nfl-elevated,"Partner's Access to NFL Network Tool (Elevated Access)
+CN=partners-nfl-elevated,OU=Security Groups,OU=Users and Groups,OU=GoDaddy,DC=jomax,DC=paholdings,DC=com",Certification Items Revoked By Rachit Tanwar,Finished,Lee Stapleford-Allen (241045),Rachit Tanwar (440439),"2/19/26, 10:31 AM",
+Artin Saghatelian (426211),Entitlement,Jomax Active Directory,Lee Stapleford-Allen (241045),asaghatelian,memberOf,Partners-nfl-elevated,"Partner's Access to NFL Network Tool (Elevated Access)
+CN=partners-nfl-elevated,OU=Security Groups,OU=Users and Groups,OU=GoDaddy,DC=jomax,DC=paholdings,DC=com",Certification Items Revoked By Rachit Tanwar,Finished,Lee Stapleford-Allen (241045),Rachit Tanwar (440439),"2/19/26, 10:31 AM",
+Ryan Giltner (209054),Entitlement,Jomax Active Directory,Lee Stapleford-Allen (241045),rgiltner,memberOf,Partners-nfl-elevated,"Partner's Access to NFL Network Tool (Elevated Access)
+CN=partners-nfl-elevated,OU=Security Groups,OU=Users and Groups,OU=GoDaddy,DC=jomax,DC=paholdings,DC=com",Certification Items Revoked By Rachit Tanwar,Finished,Lee Stapleford-Allen (241045),Rachit Tanwar (440439),"2/19/26, 10:31 AM",

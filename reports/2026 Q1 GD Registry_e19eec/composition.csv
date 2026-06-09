@@ -1,0 +1,7 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Jomax Active Directory,,Equals,Registry_WebPresence-BSA
+Filter 2 OR,Entitlement,Jomax Active Directory,,Equals,Registry_WebPresence-Global
+Filter 3 OR,Entitlement,Jomax Active Directory,,Equals,Registry_WebPresence-Gateway
+Filter 4 OR,Entitlement,Jomax Active Directory,,Equals,Registry_Salesforce
+Filter 5 OR,Entitlement,Jomax Active Directory,,Equals,Okta_Narwhal_OTE
+Filter 6,Entitlement,Jomax Active Directory,,Equals,Okta_Narwhal_Prod

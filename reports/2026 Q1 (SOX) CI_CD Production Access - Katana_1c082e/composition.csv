@@ -1,0 +1,5 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Active Directory,,Contains,GD-AWS-C-Global-KatanaCDP-CICD-Deploy#340800109235
+Filter 2 OR,Entitlement,Compliance Active Directory,,Contains,GD-AWS-C-Global-KatanaCDP-Admin#340800109235
+Filter 3 OR,Entitlement,Compliance Active Directory,,Contains,GD-AWS-C-Global-KatanaCDP-Prod-Deploy#207085551524
+Filter 4,Entitlement,Compliance Active Directory,,Contains,GD-AWS-C-Global-KatanaCDP-Admin#207085551524

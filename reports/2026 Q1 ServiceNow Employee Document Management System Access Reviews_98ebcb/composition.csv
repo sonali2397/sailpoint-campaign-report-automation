@@ -1,0 +1,21 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Active Directory,,Contains,hr-admin
+Filter 2 OR,Entitlement,Compliance Active Directory,,Contains,hr-employee relations coe
+Filter 3 OR,Entitlement,Compliance Active Directory,,Contains,hr-legal coe
+Filter 4 OR,Entitlement,Compliance Active Directory,,Contains,hr-ops tier 1
+Filter 5 OR,Entitlement,Compliance Active Directory,,Contains,hr-payroll americas
+Filter 6 OR,Entitlement,Compliance Active Directory,,Contains,hr-recruiting tier 1
+Filter 7 OR,Entitlement,Compliance Active Directory,,Contains,hr-recruiting tier 2
+Filter 8 OR,Entitlement,Compliance Active Directory,,Contains,hr-total rewards coe
+Filter 9 OR,Entitlement,Compliance Active Directory,,Contains,hr-workday support
+Filter 10 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea africa-ops tier 1
+Filter 11 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea middle east-ops tier 1
+Filter 12 OR,Entitlement,Compliance Active Directory,,Contains,hr-immigration
+Filter 13 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea africa-ops tier 2
+Filter 14 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea central-ops tier 1
+Filter 15 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea central-ops tier 2
+Filter 16 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea east-ops tier 1
+Filter 17 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea east-ops tier 2
+Filter 18 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea west ops tier 2
+Filter 19 OR,Entitlement,Compliance Active Directory,,Contains,hr-emea west ops tier 1
+Filter 20,Entitlement,Compliance Active Directory,,Contains,hr-emea west ops tier 3

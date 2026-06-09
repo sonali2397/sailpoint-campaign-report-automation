@@ -1,0 +1,8 @@
+Filter,Criteria Type,Source,Attribute,Operation,Value
+Filter 1 OR,Entitlement,Compliance Active Directory,,Contains,account operators
+Filter 2 OR,Entitlement,Compliance Active Directory,,Contains,manage groups - jomax
+Filter 3 OR,Entitlement,Compliance Active Directory,,Contains,manage users and groups - jomax
+Filter 4 OR,Entitlement,Compliance Active Directory,,Contains,manage dc1 users and groups
+Filter 5 OR,Entitlement,Compliance Active Directory,,Starts With,dc1\administrators
+Filter 6 OR,Entitlement,Compliance Active Directory,,Contains,ops-ua tier 2
+Filter 7,Entitlement,Compliance Active Directory,,Starts With,jomax\administrators
